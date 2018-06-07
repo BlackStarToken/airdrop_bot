@@ -1,0 +1,6 @@
+db_test.rb
+.ruby-version
+Gemfile.lock
+discord_bot.db
+test.rb
+bot.log
